@@ -1,4 +1,4 @@
-# 職務経歴書
+# 履歴書
 
 ## Basic information
 
