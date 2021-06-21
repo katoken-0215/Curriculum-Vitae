@@ -79,12 +79,12 @@
 エンジニアとして、以下のタスクに従事しています。
 
 - AngularとElectronを用いたWindowsアプリの開発
-- Pyramid/Flask/Chaliceを用いたサーバサイド開発
+- Pyramid/Flask/Django/Chalice/Serverless Framework/SQLAlchemy を用いたサーバサイド開発
 - 品質面で懸念される点についてフォロー
 
-### 2019/9 - 現在： 業務委託
+### 2019/9 - 2020/9: 業務委託
 
-エンジニアとして、以下のタスクに従事しています。
+エンジニアとして、以下のタスクに従事しました。
 
 - AWSとTerraformを用いたInfrastructure as Codeによるインフラ構成
 - MySQL上のデータベース設計
