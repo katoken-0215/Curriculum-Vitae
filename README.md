@@ -39,6 +39,13 @@
     - Systems Service
     - SageMaker
 
+### Others
+
+- Slack
+- GitHub
+- Notion
+- Esa
+
 ## Strength
 
 - コードを読むのが好き、書き直すのが好き、デバッグも好き
